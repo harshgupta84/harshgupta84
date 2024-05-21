@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **harshguptalnm@gmail.com**
 
-- ⚡ Fun fact **I am funny for me.**
+- ⚡ Fun fact **Basis of all apps is Redux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
