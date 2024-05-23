@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **harshguptalnm@gmail.com**
 
-- ⚡ Fun fact **Basis of all apps is Redux**
+- ⚡ Fun fact **Basis of all Web Apps is HTML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
