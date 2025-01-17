@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
 <h3 align="center">A passionate Full-stack Thinker.</h3>
 
-- 🔭 I’m currently working on **Lang-Chain Project**
+- 🔭 I’m currently working on **Full Stack Projects**
 
 - 🌱 I’m currently learning **NextJs**
 
-- 🤝 I’m looking for help with **Redux-Toolkit**
+- 🤝 I’m looking for help with **Myself**
 
 - 👨‍💻 All of my projects are available at [(https://github.com/harshgupta84/)](harshgupta84)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **harshguptalnm@gmail.com**
 
-- ⚡ Fun fact **Basis of all Web Apps is HTML**
+- ⚡ Fun fact **Basis of all Web Apps is HTML, CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
